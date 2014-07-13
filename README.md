@@ -3,7 +3,7 @@ Machine-Learning-Stanford-Coursera
 
 Stanford - Coursera Machine Learning Course.
 
-Course Schedule
+Course Schedule:
 
 Week 1
 
