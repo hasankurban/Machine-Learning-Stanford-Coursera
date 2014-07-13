@@ -1,3 +1,5 @@
 Week 3
-Logistic Regression
-Regularization
+
+-Logistic Regression
+
+-Regularization
